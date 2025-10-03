@@ -63,5 +63,6 @@ This project demonstrates how deep learning can be applied in **medical image an
 
 ## NOTE 
 This model was deployed in a **web application** for clinical testing 
+Hosting the model by Hugging face
   
   
